@@ -1,0 +1,9 @@
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\bin\Debug\Random.exe
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\bin\Debug\Random.pdb
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Debug\Random.exe
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Debug\Random.pdb
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Debug\RandomNum.Form1.resources
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Debug\RandomNum.Properties.Resources.resources

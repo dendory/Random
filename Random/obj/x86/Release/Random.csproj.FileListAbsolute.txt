@@ -1,0 +1,18 @@
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\bin\Release\Random.exe
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\bin\Release\Random.pdb
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Release\RandomNum.Form1.resources
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Release\RandomNum.Properties.Resources.resources
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Release\Random.exe
+C:\Users\elfguy\AppData\Local\Temporary Projects\Random\obj\x86\Release\Random.pdb
+C:\!docs\!VC2010\Random\Random\obj\x86\Release\Random.exe
+C:\!docs\!VC2010\Random\Random\obj\x86\Release\Random.pdb
+C:\!docs\!VC2010\Random\Random\bin\Release\Random.exe
+C:\!docs\!VC2010\Random\Random\bin\Release\Random.pdb
+C:\!docs\!VC2010\Random\Random\obj\x86\Release\ResolveAssemblyReference.cache
+C:\!docs\!VC2010\Random\Random\obj\x86\Release\RandomNum.Form1.resources
+C:\!docs\!VC2010\Random\Random\obj\x86\Release\RandomNum.Properties.Resources.resources
+C:\!docs\!VC2010\Random\Random\obj\x86\Release\GenerateResource.read.1.tlog
+C:\!docs\!VC2010\Random\Random\obj\x86\Release\GenerateResource.write.1.tlog
